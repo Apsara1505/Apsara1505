@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apsara1505" alt="apsara1505" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- All of my projects are available at [https://github.com/Apsara1505/Apsara-Portfolio-Website](https://github.com/Apsara1505/Apsara-Portfolio-Website)
 
-- 🌱 I’m currently learning **AngularJs, .NET 6 and C#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Apsara1505/Apsara-Portfolio-Website](https://github.com/Apsara1505/Apsara-Portfolio-Website)
-
-- 📫 How to reach me **apsara.silva1505@gmail.com**
+- How to reach me **apsara.silva1505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
