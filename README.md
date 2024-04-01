@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=apsara1505&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=apsara1505&icon=0&color=5)](https://visitcount.itsvg.in)
 
