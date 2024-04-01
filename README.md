@@ -6,7 +6,7 @@
 </p>
 
 ## 🌐 Socials:
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=website&logoColor=white)](https://github.com/Apsara1505/Apsara-Portfolio-Website) 
+[![WEBSITE](https://img.shields.io/badge/🔥%20WEBSITE-100000?style=for-the-badge&logo=website&logoColor=white)](https://github.com/Apsara1505/Apsara-Portfolio-Website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/apsara-pd-silva/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/aapdesilva)
 
