@@ -23,5 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=apsara1505&icon=0&color=5)](https://visitcount.itsvg.in)
 
-### Get In Touch [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apsara.silva1505@gmail.com)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
