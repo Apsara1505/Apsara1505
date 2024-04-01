@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsara1505&label=Profile%20views&color=0e75b6&style=flat" alt="apsara1505" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apsara1505" alt="apsara1505" /></a> </p>
-
 - All of my projects are available at [https://github.com/Apsara1505/Apsara-Portfolio-Website](https://github.com/Apsara1505/Apsara-Portfolio-Website)
 
 - How to reach me **apsara.silva1505@gmail.com**
