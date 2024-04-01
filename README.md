@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=apsara1505&label=Profile%20views&color=orange&style=flat-square" alt="apsara1505" />
 </p>
 
-- All of my projects are available at ![WEBSITE] [ttps://github.com/Apsara1505/Apsara-Portfolio-Website](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)(https://github.com/Apsara1505/Apsara-Portfolio-Website)
+- 👨‍💻 All of my projects are available at [![WEBSITE](https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=website&logoColor=white)](https://github.com/Apsara1505/Apsara-Portfolio-Website)
 
 - How to reach me **apsara.silva1505@gmail.com**
 
