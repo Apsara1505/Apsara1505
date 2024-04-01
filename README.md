@@ -2,10 +2,10 @@
 <h3 align="center">Welcome to my GitHub profile! As a passionate Information Technology graduate with a focus on Full-Stack development am always eager to take on new challenges and opportunities to enhance my skills. Let's build something amazing together! 👨🏽‍💻</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apsara1505&label=Profile%20views&color=orange&style=flat-square" alt="apsara1505" />
+  <img src="https://komarev.com/ghpvc/?username=apsara1505&label=Profile%20views&color=pink&style=flat-square" alt="apsara1505" />
 </p>
 
-- All of my projects are available at [https://github.com/Apsara1505/Apsara-Portfolio-Website](https://github.com/Apsara1505/Apsara-Portfolio-Website)
+- All of my projects are available at ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)[https://github.com/Apsara1505/Apsara-Portfolio-Website](https://github.com/Apsara1505/Apsara-Portfolio-Website)
 
 - How to reach me **apsara.silva1505@gmail.com**
 
