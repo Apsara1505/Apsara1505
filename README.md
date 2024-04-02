@@ -1,9 +1,6 @@
 <h1 align="center">Hello There 👋, I'm Apsara De Silva</h1>
 <h3 align="center">Welcome to my GitHub profile! As a passionate Information Technology graduate with a focus on Full-Stack development am always eager to take on new challenges and opportunities to enhance my skills. Let's build something amazing together! 👨🏽‍💻</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apsara1505&label=Profile%20views&color=orange&style=flat-square" alt="apsara1505" />
-</p>
 
 ## 🌐 Socials:
 [![WEBSITE](https://img.shields.io/badge/🔥%20WEBSITE-100000?style=for-the-badge&logo=website&logoColor=white)](https://apsara-de-silva-portfolio.netlify.app/)
@@ -19,6 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apsara1505&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Thank You ❤️
-[![](https://visitcount.itsvg.in/api?id=apsara1505&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
