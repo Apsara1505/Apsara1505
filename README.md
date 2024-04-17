@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 👋, I'm Apsara De Silva</h1>
 <h3 align="center">Welcome to my GitHub profile! 
-  As a passionate Information Technology graduate with a focus on Full-Stack development am always eager to take on new challenges and opportunities to enhance my skills. Let's build something amazing together! 👨🏽‍💻</h3>
+  As a passionate Information Technology graduate with a focus on Full-Stack development am always eager to take on new challenges and opportunities to enhance my skills. </h3>
 
 
 ## 🌐 Socials:
